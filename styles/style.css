@@ -22,13 +22,13 @@ p, li {
 
 /* color and border */
 html {
-  background-color: #640404;
+  background-color: #663333;
 }
 
 body {
   width: 800px;
   margin: 0 auto;
-  background-color: #663333;
+  background-color: #640404;
   padding: 0 20px 20px 20px;
   border: 1px solid white;*
 }
@@ -45,6 +45,10 @@ h2 {
   padding: 18px 0;
   color: #FFFFFF;
   text-shadow: 1px 1px 1px black;
+}
+
+p, li {
+  color: #FFFFFF;
 }
 
 img {
