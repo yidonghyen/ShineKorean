@@ -33,6 +33,24 @@ body {
   /*border: 1px solid white;*/
 }
 
+nav {
+  background-color: #;
+  position: fixed;
+  font-size: 14px;
+  margin: 0 15px
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
+nav ul {
+  text-align: right;
+  margin: 0 auto;
+  padding: 30px;
+}
+
 h1 {
   margin: 0;
   padding: 20px 0;
