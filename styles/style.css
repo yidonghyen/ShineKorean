@@ -31,7 +31,7 @@ body {
   width: auto;
   margin: 0 auto;
   background-color: #640404;
-  padding-top: 75px
+  padding: 75px 10px 10px;
 }
 
 header {
@@ -78,7 +78,6 @@ h2 {
 
 p, li {
   color: #FFFFFF;
-  padding: 5px 5px;
 }
 
 img {
@@ -88,6 +87,7 @@ img {
 
 footer {
   background-color: #FFFFFF;
+  padding: 10px 10px;
   }
 
 footer p {
