@@ -1,3 +1,5 @@
+@charset "UTF-8";
+
 /* font */
 html {
   font-size: 10px;
@@ -36,6 +38,7 @@ body {
 header {
   background-color: #;
   display: inline-block;
+  text-align: center;
   font-size: 14px;
   top: 0;
   left: 0;
@@ -43,9 +46,9 @@ header {
 }
 
 nav ul {
-  text-align: right;
+  overflow: hidden;
   margin: 0 auto;
-  padding: 30px;
+  padding-top: 0;
 }
 
 h1 {
