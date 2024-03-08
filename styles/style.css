@@ -53,7 +53,7 @@ nav ul {
 nav ul li {
   display: inline-block;
   margin: 0;
-  padding: 30px;
+  padding: 25px;
 }
 
 nav ul li a {
@@ -64,20 +64,21 @@ nav ul li a {
 }
 
 h1 {
-  padding: 20px 5px 5px;
+  padding: 20px 0;
   color: #FFFFFF;
   text-shadow: 1px 1px 1px black;
 }
 
 h2 {
   margin: 0;
-  padding: 18px 5px 5px;
+  padding: 18px 0;
   color: #FFFFFF;
   text-shadow: 1px 1px 1px black;
 }
 
 p, li {
   color: #FFFFFF;
+  padding: 5px 5px;
 }
 
 img {
