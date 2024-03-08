@@ -45,7 +45,8 @@ header {
   font-size: 14px;
 }
 
-nav ul {
+nav {
+  margin-left: auto;
   overflow: hidden;
   margin: 0 auto;
   padding: 0;
