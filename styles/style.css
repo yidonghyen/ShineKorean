@@ -31,7 +31,7 @@ body {
   width: auto;
   margin: 0 auto;
   background-color: #640404;
-  padding: 75px 10px 10px;
+  padding: 75px 20px 10px;
 }
 
 header {
@@ -86,11 +86,12 @@ img {
 }
 
 footer {
+  margin: 0;
   background-color: #FFFFFF;
   padding: 10px 10px;
   }
 
 footer p {
   color: #640404;
-  font-size: 12px;
+  font-size: 13px;
 }
