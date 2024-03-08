@@ -39,6 +39,7 @@ header {
   background-color: #663333;
   position: fixed;
   top: 0;
+  left: 0;
   width: 100%;
   margin: 0;
   text-align: center;
@@ -46,7 +47,7 @@ header {
 }
 
 nav ul {
-  display: inline-block;
+  position: inline-block;
   overflow: hidden;
   margin: 0 auto;
   padding-top: 0;
