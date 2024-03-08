@@ -20,6 +20,7 @@ p, li {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 1px;
+  padding: 0 20px;
 }
 
 /* color and border */
@@ -31,7 +32,7 @@ body {
   width: auto;
   margin: 0 auto;
   background-color: #640404;
-  padding: 75px 20px 10px;
+  padding: 75px 0;
 }
 
 header {
