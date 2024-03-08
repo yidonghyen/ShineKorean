@@ -45,6 +45,7 @@ header {
 }
 
 nav {
+  text-decoration: none;
   margin-left: auto;
   overflow: hidden;
   margin: 0 auto;
@@ -61,7 +62,6 @@ nav ul li a {
   color: #FFFFFF;
   font-weight: bold;
   text-align: center;
-  text-decoration: none;
 }
 
 h1 {
