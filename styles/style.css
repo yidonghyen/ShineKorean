@@ -88,10 +88,10 @@ img {
 footer {
   margin: 0;
   background-color: #FFFFFF;
-  padding: 10px 10px;
   }
 
 footer p {
   color: #640404;
-  font-size: 13px;
+  font-size: 14px;
+  padding: 10px 10px;
 }
