@@ -36,14 +36,14 @@ body {
 }
 
 header {
-  background-color: #663333;
+  background-color: #640404;
   position: fixed;
   top: 0;
   text-align: center;
   font-size: 14px;
 }
 
-nav ul {
+nav li {
   overflow: hidden;
   margin: 0 auto;
   padding-top: 0;
